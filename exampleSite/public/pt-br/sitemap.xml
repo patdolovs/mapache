@@ -341,42 +341,5 @@
                 hreflang="pt-br"
                 href="http://localhost:1313/pt-br/tags/shortcodes/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/pt-br/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt-br/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt-br/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/projects/"
-                />
   </url>
 </urlset>
